@@ -8,7 +8,7 @@ Este é um guia para manutenção/utilização da API da Pecista - Distribuiçã
 ## Informações Gerais
 
 Você deve ter instalado em sua máquina a última versão do [Node.js](https://nodejs.org/en/) 
-e o gerenciador de pacotes [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable),
+e o gerenciador de pacotes [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable).
 
 ### Rodando locamente o projeto
 Na pasta root do projeto, digite no terminal para instalar as dependências: 
